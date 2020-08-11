@@ -1,5 +1,7 @@
 # Redis-sh
 
+author:yushui
+
 安装redis单节点
 
 ## 介绍
